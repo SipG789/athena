@@ -7,10 +7,10 @@ import Portfolio from './components/Portfolio';
 function App() {
   const [categories] = useState([
     {
-      name: "Portfolio",
+      name: "portfolio",
       description: "List of projects I have worked on throughout my course",
     },
-    { name: "Resume", description: "Resume of my achievements" },
+    { name: "resume", description: "Resume of my achievements" },
   ]);
 
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
@@ -23,7 +23,7 @@ function App() {
         currentCategory={currentCategory}
       ></Nav>
       <main>
-      <Portfolio></Portfolio>
+      <Portfolio currentCategory={currentCategory}></Portfolio>
       <About></About>
       </main>
     </div>

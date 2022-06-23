@@ -12,8 +12,9 @@ function Nav(props) {
     document.title = capitalizeFirstLetter(currentCategory.name);
   }, [currentCategory]);
 
-  const handleClick = () => {
-    console.log("click handled");
+    const handleClick = (item) => {
+    console.log(item);
+    return item;
   };
 
   return (
@@ -31,13 +32,15 @@ function Nav(props) {
             </a>
           </li>
           <li className={"mx-2"}>
-            <span onClick={() => handleClick()}>Contact</span>
+            <span onClick={() => handleClick()}>
+                Contact
+            </span>
           </li>
           {categories.map((category) => (
             <li
               className={`mx-1 ${
-                currentCategory.name === category.name && "navActive"
-              }`}
+                currentCategory.name === category.name && 'navActive'
+                }`}
               key={category.name}
             >
               <span
