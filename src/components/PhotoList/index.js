@@ -9,37 +9,37 @@ const PhotoList = ({ category }) => {
       name: "Budget Tracker",
       category: "portfolio",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+        "Use this application as a budget tracker for your expenses and savings. Add and Subtract funds from your savings and use this to log amounts. Github link: https://github.com/SipG789/plutus. Deployed Link: https://rocky-forest-03738.herokuapp.com/",
     },
     {
       name: "Food Festival",
       category: "portfolio",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+        "This application is a website for a Food Festival event where users can learn about the event, view the schedule, and buy tickets for the event. Gihub link: https://github.com/SipG789/food-festival",
     },
     {
       name: "Hestia",
       category: "portfolio",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+        "Use this application to check the weather in any city and in addition you can look up a recipe to best suit the temperature. This website allows users to view the weather and look up recipes. Github link: https://github.com/SipG789/hestia Deployed link: https://sipg789.github.io/hestia/recipes.html ",
     },
     {
       name: "Note Taker",
       category: "portfolio",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+        "This application helps users organize thoughts and keep track of tasks. Github link: https://github.com/SipG789/hermes. Deployed site: https://sheltered-reef-72388.herokuapp.com/notes",
     },
     {
       name: "Taskinator",
       category: "portfolio",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+        "This application uses the kanban style method to manage and improve work. Github link: https://github.com/SipG789/taskinator. Deployed: https://sipg789.github.io/taskinator/ ",
     },
     {
       name: "Zookeepr",
       category: "portfolio",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+        "This application catalogs zoo animals and their zookeepers. Perfect for a small company. Github link: https://github.com/SipG789/zookeepr.",
     },
   ]);
 
