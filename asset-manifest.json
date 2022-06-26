@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bccb4058.css",
+    "main.js": "/static/js/main.a4008d99.js",
+    "static/js/787.c591fbbb.chunk.js": "/static/js/787.c591fbbb.chunk.js",
+    "static/media/Sipriano-Gonzalez.Resume-2022.pdf": "/static/media/Sipriano-Gonzalez.Resume-2022.9a7b0fdbbc8d0eb28d67.pdf",
+    "static/media/1.jpg": "/static/media/1.a1a9be63a6e7671ce71e.jpg",
+    "static/media/5.jpg": "/static/media/5.f035bd9aac17b54719cf.jpg",
+    "static/media/2.jpg": "/static/media/2.47701326039af3466ef7.jpg",
+    "static/media/4.jpg": "/static/media/4.ac833411e7c9a87b85a3.jpg",
+    "static/media/0.jpg": "/static/media/0.b36bb5398d9b755fcba4.jpg",
+    "static/media/3.jpg": "/static/media/3.57a02d886e1283d8aabd.jpg",
+    "static/media/profilePic.jpg": "/static/media/profilePic.096bbb9f742fe479a50c.jpg",
+    "index.html": "/index.html",
+    "main.bccb4058.css.map": "/static/css/main.bccb4058.css.map",
+    "main.a4008d99.js.map": "/static/js/main.a4008d99.js.map",
+    "787.c591fbbb.chunk.js.map": "/static/js/787.c591fbbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bccb4058.css",
+    "static/js/main.a4008d99.js"
+  ]
+}
